@@ -1,3 +1,7 @@
+# Intro
+
+This project was created to document progress during a code along in the webdeveloper: Zero to Mastery course. It shows the process from bootstrapping with Create React App to adding functionality one by one. Every commit should be able to run standalone with npm.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
